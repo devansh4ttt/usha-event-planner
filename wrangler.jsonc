@@ -10,7 +10,7 @@
     {
       "binding": "DB",
       "database_name": "usha-events-db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+      "database_id": "2cfbd73b-d7c4-4c11-bf28-8020ae7ec252"
     }
   ]
 }
